@@ -16,7 +16,7 @@
 
 > Showcase of user cards built with Angular
 
-### 🏠 [Homepage](https://github.com/zjayers/angular-cards#readme)
+### 🏠 [Homepage](https://zjayers.github.io/angular-cards/)
 
 ## Prerequisites
 

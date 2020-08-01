@@ -2,7 +2,7 @@
   "name": "angular-cards",
   "version": "1.0.0",
   "private": true,
-  "description": "CLI that generates beautiful README.md files.",
+  "description": "Showcase of user cards built with Angular",
   "homepage": "https://github.com/zjayers/angular-cards#readme",
   "bugs": {
     "url": "https://github.com/zjayers/angular-cards/issues"
@@ -57,7 +57,7 @@
     "typescript": "~3.8.3"
   },
   "engines": {
-    "node": ">=12.13.6",
+    "node": ">=12.16.3",
     "npm": ">=6.14.7"
   }
 }
